@@ -1,0 +1,12 @@
+/node_modules
+/ejs-Express.js
+/expressMod.js
+/index.html
+/index.js
+/variables.js
+/public/script.js
+/public/staticIndex.html
+/views/home.ejs
+/views/htmlForm.ejs
+/views/success.ejs
+
